@@ -2,7 +2,8 @@
   links
   
   <a href="https://ewron.atabook.org">ata</a>⠀⠀
-  <a href="https://rentry.co/2Z">rentry</a>
+  <a href="https://rentry.co/2Z">rentry</a>⠀⠀
+  <a href="https://github.com/d3rLord3">other github</a>
 
 <img width="656" height="480" alt="20260519_122049" src="https://github.com/user-attachments/assets/4b09f0f1-5e95-4aa1-8192-ecd15864828d" />
 </div>
