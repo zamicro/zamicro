@@ -8,6 +8,10 @@ things i like: projectmoon (i like lobcorp more), unstable smp/universe, qsmp (2
   </a>
 </div>
 
+<div align="center">
+  <img width="320" alt="20260515_153534" src="https://github.com/user-attachments/assets/65ebe370-7584-4aa9-8093-b72b619f89d6" />
+</div>
+
 ___
 
 ps:
